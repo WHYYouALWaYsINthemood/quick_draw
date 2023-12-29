@@ -1,0 +1,23 @@
+body
+{
+    background-color: rgb(0, 170, 255);
+}
+
+h1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: crimson;
+    background-color: aquamarine;
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+h4
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkorchid;
+    background-color: coral;
+}
